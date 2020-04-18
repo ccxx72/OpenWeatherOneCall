@@ -24,7 +24,7 @@ OpenWeatherOneCall::OpenWeatherOneCall() {
 //#define msgDISPLAY tft
 
 #define DS_URL1 "https://api.openweathermap.org/data/2.5/onecall"
-#define DS_URL2 "&units=metric&appid="
+
 
 #define GEOLOCATIONURL "https://www.googleapis.com/geolocation/v1/geolocate"
 
